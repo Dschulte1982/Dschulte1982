@@ -2,7 +2,7 @@
 
 [![Dschulte1982's github stats](https://github-readme-stats.vercel.app/api?username=dschulte1982&show_icons=true&theme=tokyonight)](https://github.com/dschulte1982/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschulte1982)](https://github.com/dschulte1982/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschulte1982&layout=compact)](https://github.com/dschulte1982/github-readme-stats)
 
 <!--
 **Dschulte1982/Dschulte1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
