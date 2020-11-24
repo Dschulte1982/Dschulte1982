@@ -4,7 +4,7 @@
 <p align="center">I'm a Full-Stack Software Engineer, Team-Leader, and Customer Service Specialist currently residing in Washington State.
 My earliest childhood memory is of my four year-old self spending endless hours on my father's Atari home console. My love of gaming and software has only grown in the years since. I am incredibly passionate about software and technology that connects people from any corner of Earth, helps us communicate and overcome challenges, and improves the quality of life for everyone. To this end I enjoy applications that incorpate elements of gamification, user engagement, scalability, and efficient performance.
 
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
+When I'm not developing applications or brushing up on the latest news in the world of technology, you can often find me cataloguing my extensive comic book collection, hiking with my fiancee and our two dogs, or volunteering my time for local non-profit groups for women and children.</p>
 
 ### 💻 Projects - Previous and on the Horizon
 - [Dust 'Em Off](https://dust-em-off.herokuapp.com) - This 'virtual display case' social platform utlizes entirely user-generated content to show off the things we love to collect. If Ebay is where you can see what people are trying to sell, Dust 'Em Off is where you can see what they covet.
@@ -19,6 +19,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [AngelList](https://angel.co/u/dustin-schulte)
 - [Facebook](https://www.facebook.com/dustin.schulte.98)
 - [Instagram](https://www.instagram.com/dustin.schulte.98)
+
 
 [![Dschulte1982's github stats](https://github-readme-stats.vercel.app/api?username=dschulte1982&show_icons=true&theme=tokyonight)](https://github.com/dschulte1982/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschulte1982&layout=compact&bg_color=1a1b27&text_color=38bdae&title_color=70a5fd)](https://github.com/dschulte1982/github-readme-stats)
 <!--
