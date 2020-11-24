@@ -1,13 +1,16 @@
-[![Header](https://user-images.githubusercontent.com/65473402/99856310-8a67f400-2b3d-11eb-88a2-bf088bfc7c22.png)](https://dschulte1982.github.io)
+## [![Header](https://user-images.githubusercontent.com/65473402/99856310-8a67f400-2b3d-11eb-88a2-bf088bfc7c22.png)](https://dschulte1982.github.io)
 
 <h2 align="center">Welcome to my GitHub profile! My name is Dustin Schulte, and I'm a Software Engineer.</h2>
+<p align="center">I'm a Full-Stack Software Engineer, Team-Leader, and Customer Service Specialist currently residing in Washington State.
+My earliest childhood memory is of my four year-old self spending endless hours on my father's Atari home console. My love of gaming and software has only grown in the years since. I am incredibly passionate about software and technology that connects people from any corner of Earth, helps us communicate and overcome challenges, and improves the quality of life for everyone. To this end I enjoy applications that incorpate elements of gamification, user engagement, scalability, and efficient performance.
 
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
 
 ### 💻 Projects - Previous and on the Horizon
 - [Dust 'Em Off](https://dust-em-off.herokuapp.com) - This 'virtual display case' social platform utlizes entirely user-generated content to show off the things we love to collect. If Ebay is where you can see what people are trying to sell, Dust 'Em Off is where you can see what they covet.
 - [Batmanhood](https://batmanhoodapp.herokuapp.com) - Stocks analysis and purchase application modeled after Robinhood. Built with Agile methodology in a small team of three developers.
 - [Meatium](https://meatium.herokuapp.com) - An initial foray into full-stack development, combining a JavaScript front-end with an Express back-end, this application was modeled after the popular news and blogging website Medium.
-- Co-Op Untitled Space Western RPG - *coming soon* - A small team utilizing C# and the Unity engine to expand our repetoire of software languages and skills.
+- Untitled Co-Op Space Western RPG - *coming soon* - A small team utilizing C# and the Unity engine to expand our repetoire of software languages and skills.
 - Blog - *coming soon* - Blog designed to document challenges, triumphs, and experiences as a small team of Software Engineers journey into game-development.
 
 ### 📫 Where to find me
