@@ -2,7 +2,6 @@
 
 <h2 align="center">Welcome to my GitHub profile! My name is Dustin Schulte, and I'm a Software Engineer.</h2>
 
-[![Dschulte1982's github stats](https://github-readme-stats.vercel.app/api?username=dschulte1982&show_icons=true&theme=tokyonight)](https://github.com/dschulte1982/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschulte1982&layout=compact&bg_color=1a1b27&text_color=38bdae&title_color=70a5fd)](https://github.com/dschulte1982/github-readme-stats)
 
 ### 💻 Projects - Previous and on the Horizon
 - [Dust 'Em Off](https://dust-em-off.herokuapp.com)
@@ -18,6 +17,7 @@
 - [Facebook](https://www.facebook.com/dustin.schulte.98)
 - [Instagram](https://www.instagram.com/dustin.schulte.98)
 
+[![Dschulte1982's github stats](https://github-readme-stats.vercel.app/api?username=dschulte1982&show_icons=true&theme=tokyonight)](https://github.com/dschulte1982/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschulte1982&layout=compact&bg_color=1a1b27&text_color=38bdae&title_color=70a5fd)](https://github.com/dschulte1982/github-readme-stats)
 <!--
 **Dschulte1982/Dschulte1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
