@@ -1,7 +1,7 @@
 ## [![Header](https://user-images.githubusercontent.com/65473402/99856310-8a67f400-2b3d-11eb-88a2-bf088bfc7c22.png)](https://dschulte1982.github.io)
 
 <h2 align="center">Welcome to my GitHub profile! My name is Dustin Schulte, and I'm a Software Engineer.</h2>
-<p align="center">I'm a Full-Stack Software Engineer, Team-Leader, and Customer Service Specialist currently residing in Washington State.
+<p>I'm a Full-Stack Software Engineer, Team-Leader, and Customer Service Specialist currently residing in Washington State.
 My earliest childhood memory is of my four year-old self spending endless hours on my father's Atari home console. My love of gaming and software has only grown in the years since. I am incredibly passionate about software and technology that connects people from any corner of Earth, helps us communicate and overcome challenges, and improves the quality of life for everyone. To this end I enjoy applications that incorpate elements of gamification, user engagement, scalability, and efficient performance.
 
 When I'm not developing applications or brushing up on the latest news in the world of technology, you can often find me cataloguing my extensive comic book collection, hiking with my fiancee and our two dogs, or volunteering my time for local non-profit groups for women and children.</p>
@@ -20,6 +20,7 @@ When I'm not developing applications or brushing up on the latest news in the wo
 - [Facebook](https://www.facebook.com/dustin.schulte.98)
 - [Instagram](https://www.instagram.com/dustin.schulte.98)
 
+<br>
 
 [![Dschulte1982's github stats](https://github-readme-stats.vercel.app/api?username=dschulte1982&show_icons=true&theme=tokyonight)](https://github.com/dschulte1982/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschulte1982&layout=compact&bg_color=1a1b27&text_color=38bdae&title_color=70a5fd)](https://github.com/dschulte1982/github-readme-stats)
 <!--
