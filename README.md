@@ -2,7 +2,7 @@
 
 <h2 align="center">Welcome to my GitHub profile! My name is Dustin Schulte, and I'm a Software Engineer.</h2>
 <p>I'm a Full-Stack Software Engineer, Team-Leader, and Customer Service Specialist currently residing in Washington State.
-My earliest childhood memory is of my four year-old self spending endless hours on my father's Atari home console. My love of gaming and software has only grown in the years since. I am incredibly passionate about software and technology that connects people from any corner of Earth, helps us communicate and overcome challenges, and improves the quality of life for everyone. To this end I enjoy applications that incorpate elements of gamification, user engagement, scalability, and efficient performance.
+My earliest childhood memory is spending countless hours on my father's Atari home console, enchanted by the way the sprites on the screen shaped entire worlds. My love of gaming and software has only grown in the years since. I am incredibly passionate about software and technology that connects people from any corner of Earth, helps us communicate and overcome challenges, and improves the quality of life for everyone. To this end I enjoy applications that incorpate elements of gamification, user engagement, scalability, and efficient performance.
 
 When I'm not developing applications or brushing up on the latest news in the world of technology, you can often find me cataloguing my extensive comic book collection, hiking with my fiancee and our two dogs, or volunteering my time for local non-profit groups for women and children.</p>
 
