@@ -7,8 +7,8 @@
 - [Dust 'Em Off](https://dust-em-off.herokuapp.com) - This 'virtual display case' social platform utlizes entirely user-generated content to show off the things we love to collect. If Ebay is where you can see what people are trying to sell, Dust 'Em Off is where you can see what they covet.
 - [Batmanhood](https://batmanhoodapp.herokuapp.com) - Stocks analysis and purchase application modeled after Robinhood. Built with Agile methodology in a small team of three developers.
 - [Meatium](https://meatium.herokuapp.com) - An initial foray into full-stack development, combining a JavaScript front-end with an Express back-end, this application was modeled after the popular news and blogging website Medium.
-- Co-Op Untitled Space Western RPG *coming soon* - A small team utilizing C# and the Unity engine to expand our repetoire of software languages and skills.
-- Blog *coming soon* - Blog designed to document challenges, triumphs, and experiences as a small team of Software Engineers journey into game-development.
+- Co-Op Untitled Space Western RPG - *coming soon* - A small team utilizing C# and the Unity engine to expand our repetoire of software languages and skills.
+- Blog - *coming soon* - Blog designed to document challenges, triumphs, and experiences as a small team of Software Engineers journey into game-development.
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/dustin-schulte07)
